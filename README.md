@@ -1,8 +1,6 @@
 lemonicegit
 ===========
 
-new to github
+Making game maker games
 
-I've never worked on github before,
-and would like to learn more about the 
-opensourcing community and how to participate.
+
